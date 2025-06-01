@@ -1,0 +1,3 @@
+Linear Regression Model (Avg Word Count + Sentiment Avg)
+Mean Squared Error (MSE): 3.61
+R-squared (R²): 0.52
