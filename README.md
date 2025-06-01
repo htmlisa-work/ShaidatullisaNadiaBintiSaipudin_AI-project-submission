@@ -56,7 +56,7 @@ Make sure you check these folders after running the code!
 ---
 
 ## Employees Flagged as Flight Risks
-Full list in `flight_risk_employees.csv`
+Full list in `flight_risk_employees.csv` in output files folder
 - lydia.delgado@enron.com
 - john.arnold@enron.com
 - patti.thompson@enron.com
