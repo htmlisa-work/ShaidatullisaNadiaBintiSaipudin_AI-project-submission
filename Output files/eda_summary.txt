@@ -1,0 +1,15 @@
+--- Missing Values ---
+Subject      0
+body         0
+date         0
+from         0
+sentiment    0
+dtype: int64
+
+--- Empty String Counts ---
+Subject       0
+body         30
+date          0
+from          0
+sentiment     0
+dtype: int64
